@@ -1,0 +1,56 @@
+h2{
+    font-size: x-large;
+    text-decoration: dashed;
+    align-items: center;
+    color: rgb(40, 88, 245);
+    background: rgb(255, 238, 0);
+    margin: 0;
+    padding: 0;
+    height: 30px;
+    text-align: center;
+}
+
+.my{
+    margin: 5px;
+    width: 15%;
+    float: right;
+}
+
+table{
+    padding: 5px;
+}
+
+td{
+    padding: 5px;
+    align-content: center;
+}
+
+b{
+    color: rgb(254, 59, 5);
+}
+
+i{
+    color: rgb(43, 8, 201);
+}
+
+div{
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+
+h3{
+    color: rgb(43, 8, 245);
+    margin: 10px;
+    display: inline-block;
+}
+
+.amount{
+    float: right;
+}
+
+div>img{
+    width: 30%;
+    display: block;
+    margin: 10px auto 0 auto;
+}
